@@ -21,4 +21,4 @@ arsenic is an open-source, privacy focused, feature rich, online gaming website 
 - 🖥️ activestatus monitoring
 - and more!
 
-For more info, please refer to our [documentation](https://docs.arsenic.smartfoloo.space/)
+For more info, please refer to our [documentation](httsenic.smartfoloo.space/)
